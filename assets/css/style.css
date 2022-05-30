@@ -16,7 +16,7 @@ body{
 }
 
 .back{
-  background-image: url('./images/code.jpg');
+  background-image: url('../images/codeImg.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
